@@ -1,0 +1,7 @@
+spring:
+  security:
+    user:
+      name: zcx
+      password: zcx
+    filter:
+      dispatcher-types:
